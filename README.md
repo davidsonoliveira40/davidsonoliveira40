@@ -81,6 +81,7 @@ The goal is always **decision, efficiency, or revenue**.
 
 - 🔗 *[Linkedin](https://www.linkedin.com/in/davidson-oliveira/)*  
 - 🌐 *[Courses & Training Platform](ad3.lovable.app)*
-- 💼 *([Git Hub](https://github.com/odavidsonoliveira))*
+- 💼 *[Git Hub](https://github.com/odavidsonoliveira)*
+- 📬 davidsonoliveira40@gmail.com
 
 If your problem involves **data, BI, or AI applied to real business**, we’ll probably speak the same language.
