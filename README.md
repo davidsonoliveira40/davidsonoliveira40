@@ -79,7 +79,7 @@ The goal is always **decision, efficiency, or revenue**.
 
 ## 📫 Connect & Work With Me
 
-- 🔗 LinkedIn: *linkedin.com/in/davidson-oliveira*  
+- 🔗 LinkedIn: *[Linkedin](https://www.linkedin.com/in/davidson-oliveira/)*  
 - 🌐 Courses & Training Platform: *ad3.lovable.app*  
 - 💼 GitHub: *(this profile)*
 
